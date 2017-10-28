@@ -1,0 +1,20 @@
+{
+    "name": "sukangshen/hello",
+    "description": "this is a package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sukangshen",
+            "email": "1226432372@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+     "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
